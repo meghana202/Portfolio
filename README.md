@@ -1,4 +1,4 @@
-# About-Me
-My Online Portfolio and Resume
+# Read Me
+This is my online portfolio. 
+Please checkout my resume here 
 
-Currently: Only configured for desktop use
